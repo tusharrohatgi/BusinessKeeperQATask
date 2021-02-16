@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73192" started-at="2021-02-16T15:25:26Z" finished-at="2021-02-16T15:26:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73192" started-at="2021-02-16T15:25:26Z" finished-at="2021-02-16T15:26:39Z">
+      <class name="com.businesskeeper.testcases.TestCases_BusinessKeeper">
+        <test-method status="PASS" signature="Browsersetup()[pri:0, instance:com.businesskeeper.testcases.TestCases_BusinessKeeper@6f7fd0e6]" name="Browsersetup" is-config="true" duration-ms="7358" started-at="2021-02-16T15:25:26Z" finished-at="2021-02-16T15:25:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browsersetup -->
+        <test-method status="PASS" signature="SignupTest()[pri:1, instance:com.businesskeeper.testcases.TestCases_BusinessKeeper@6f7fd0e6]" name="SignupTest" duration-ms="9378" started-at="2021-02-16T15:25:33Z" finished-at="2021-02-16T15:25:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignupTest -->
+        <test-method status="PASS" signature="UserRegistrationNegativeTest()[pri:2, instance:com.businesskeeper.testcases.TestCases_BusinessKeeper@6f7fd0e6]" name="UserRegistrationNegativeTest" duration-ms="14121" started-at="2021-02-16T15:25:42Z" finished-at="2021-02-16T15:25:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserRegistrationNegativeTest -->
+        <test-method status="PASS" signature="UserRegistrationPositiveTest()[pri:3, instance:com.businesskeeper.testcases.TestCases_BusinessKeeper@6f7fd0e6]" name="UserRegistrationPositiveTest" duration-ms="3890" started-at="2021-02-16T15:25:57Z" finished-at="2021-02-16T15:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserRegistrationPositiveTest -->
+        <test-method status="PASS" signature="SearchProductTest()[pri:4, instance:com.businesskeeper.testcases.TestCases_BusinessKeeper@6f7fd0e6]" name="SearchProductTest" duration-ms="10257" started-at="2021-02-16T15:26:00Z" finished-at="2021-02-16T15:26:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchProductTest -->
+        <test-method status="PASS" signature="BuyProductTest()[pri:5, instance:com.businesskeeper.testcases.TestCases_BusinessKeeper@6f7fd0e6]" name="BuyProductTest" duration-ms="27387" started-at="2021-02-16T15:26:11Z" finished-at="2021-02-16T15:26:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BuyProductTest -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.businesskeeper.testcases.TestCases_BusinessKeeper@6f7fd0e6]" name="CloseBrowser" is-config="true" duration-ms="734" started-at="2021-02-16T15:26:38Z" finished-at="2021-02-16T15:26:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.businesskeeper.testcases.TestCases_BusinessKeeper -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
